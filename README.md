@@ -20,36 +20,36 @@ Analyzed patterns to support future crime prevention strategies.
 6. Reporting
 
 # Tools and Technologies
-Python (Jupyter Notebook):Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
-Tasks: Data analysis, preprocessing, and visualization.
-Microsoft Power BI:Created dynamic dashboards for interactive exploration.
-Microsoft Excel:Initial data exploration and storage of raw data.
+1. Python (Jupyter Notebook):Libraries used - Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+Tasks-Data analysis, preprocessing, and visualization.
+2. Microsoft Power BI:Created dynamic dashboards for interactive exploration.
+3. Microsoft Excel:Initial data exploration and storage of raw data.
 
 # Data Source
 The dataset includes information such as:
-Crime Categories: Types of crimes (e.g., theft, assault, fraud).
-Locations: Districts, streets, or other geographical information.
-Time Details: Dates, months, or years when crimes occurred.
+1. Crime Categories: Types of crimes (e.g., theft, assault, fraud).
+2. Locations: Districts, streets, or other geographical information.
+3. Time Details: Dates, months, or years when crimes occurred.
 
 # Key Insights
-District-Level Trends: Identified high-crime districts and their associated crime categories.
-Temporal Analysis: Found specific months with spikes in criminal activity.
-Heatmaps: Highlighted areas with higher crime rates.
-Category Analysis: Common types of crimes and their distribution over time.
+1. District-Level Trends: Identified high-crime districts and their associated crime categories.
+2. Temporal Analysis: Found specific months with spikes in criminal activity.
+3. Heatmaps: Highlighted areas with higher crime rates.
+4. Category Analysis: Common types of crimes and their distribution over time.
 
-# Installation and Usage
-# Prerequisites
-Python (version 3.7 or higher)
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
-Microsoft Power BI Desktop.
-Microsoft Excel .
+# Installation and Usage Prerequisites
+1. Python (version 3.7 or higher)
+2. Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+3. Microsoft Power BI Desktop.
+4. Microsoft Excel .
 
 # Output
-Jupyter Notebook: Insights and visualizations displayed inline.
-Power BI Dashboards: Interactive visual exploration of crime data.
-Excel Sheets: Cleaned datasets and reports exported as .xlsx files.
+Jupyter Notebook: Insights and visualizations displayed inline.<br>
+Power BI Dashboards: Interactive visual exploration of crime data.<br>
+Excel Sheets: Cleaned datasets and reports exported as .xlsx files.<br>
 
 # Future Improvements
 Integrate machine learning models to predict crime hotspots.
-Use real-time data for dynamic updates in Power BI.
+<br>
+Use real-time data for dynamic updates in Power BI.<br>
 Add geospatial visualizations using Python’s folium or Power BI maps.
